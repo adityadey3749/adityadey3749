@@ -34,7 +34,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=xcode)](https://github.com/dvamsidhar2002)
+[![adityadey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityadey3749&theme=xcode)](https://github.com/adityadey3749)
 
 <hr>
 
@@ -48,4 +48,4 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
+![Profile views](https://gpvc.arturio.dev/adityadey3749)
