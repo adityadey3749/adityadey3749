@@ -1,5 +1,5 @@
 
-Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=plastic&logo=hp&logoColor=white">
+Workspace Specs : <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F102%2F870%2Fpng-clipart-lenovo-logo-hewlett-packard-logo-lenovo-computer-software-lenovo-logo-text-trademark.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-efesn&tbnid=5cwbyamvXRILuM&vet=12ahUKEwiKkark6IL9AhXYj9gFHUgHAo8QMygBegUIARC_AQ..i&docid=REzurkEA36I1QM&w=900&h=500&q=lenovo%20logo%20for%20github&ved=2ahUKEwiKkark6IL9AhXYj9gFHUgHAo8QMygBegUIARC_AQ">
 
 <h1 align = "center"> Hey! My name is Aditya Dey </h1>
 
