@@ -1,47 +1,30 @@
+<h1 align="center">Hi 👋, I'm Aditya Dey</h1>
+<h3 align="center">A SQL Developer and Machine Learner Enthusiast from India.</h3>
 
-Workspace Specs : <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadey3749&label=Profile%20views&color=0e75b6&style=flat" alt="adityadey3749" /> </p>
 
-<h1 align = "center"> Hey! My name is Aditya Dey </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadey3749" alt="adityadey3749" /></a> </p>
 
-<h3 align = "center">Love to work in a team.<br> | Explorer | Computer Science Engineer|</br>
-<p> Hey there. Welcome to my github profile</p>
+- 🔭 I’ve already worked on **Mini Robot Project Using Raspberry Pi**
 
-<h2 align="center">Hands on Experience</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+- 🌱 I’m currently learning **Machine Learning, Data Visualization**
+
+- 👨‍💻 All of my projects are available at [https://adityadey0409.wixsite.com/debya](https://adityadey0409.wixsite.com/debya)
+
+- 📫 How to reach me **aditya.dey0409@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-dey-debya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-dey-debya/" height="30" width="40" /></a>
+<a href="https://instagram.com/adit_dey34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adit_dey34" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ad1180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ad1180" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Certifications completed from </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadey3749&show_icons=true&locale=en&layout=compact" alt="adityadey3749" /></p>
 
-## 📊 GitHub Stats:
-![Aditya's Stats](https://github-readme-stats.vercel.app/api?username=adityadey3749&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityadey3749&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadey3749&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadey3749&show_icons=true&locale=en" alt="adityadey3749" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityadey3749&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-[![adityadey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityadey3749&theme=xcode)](https://github.com/adityadey3749)
-
-<hr>
-
-<h1 align="center">You can find me on :-</h1>
-<p align="center">
-  <a href="https://www.instagram.com/adit_dey34/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
-  <a href="https://www.linkedin.com/in/aditya-dey-debya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
-  <a href="https://www.hackerrank.com/ad1180">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
-</p>
-
-![Profile views](https://gpvc.arturio.dev/adityadey3749)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadey3749&" alt="adityadey3749" /></p>
