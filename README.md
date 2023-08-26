@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadey3749" alt="adityadey3749" /></a> </p>
 
-- 🔭 I’ve already worked on **Mini Robot Project Using Raspberry Pi**
+- 🔭 I’ve already worked on a project **Mini Robot Using Raspberry Pi**
 
-- 🌱 I’m currently learning **Machine Learning, Data Visualization**
+- 🌱 I’m currently learning **Machine Learning, Data Analytics and also I'm into Business Analytics**
 
-- 👨‍💻 All of my projects are available at [https://adityadey0409.wixsite.com/debya](https://adityadey0409.wixsite.com/debya)
+- 👨‍💻 Tech Stack - Python, SQL, Data Visualization Tools, Figma, Prompt Engineering, Data Analytics
 
 - 📫 How to reach me **aditya.dey0409@gmail.com**
 
